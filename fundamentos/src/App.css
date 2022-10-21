@@ -1,0 +1,10 @@
+h1 {
+    color: gold;
+    font-weight: 400;
+}
+
+.App .Cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
